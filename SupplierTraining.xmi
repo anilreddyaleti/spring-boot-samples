@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.opengroup.archimate:Model xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.opengroup.archimate="http://www.opengroup.org/xsd/archimate/3.0/" xmi:id="_Jh6IIGqmEeepGY91r9Nuow">
+  <eAnnotations xmi:id="_Jh6IIWqmEeepGY91r9Nuow" source="genmymodel">
+    <details xmi:id="_Jh6IImqmEeepGY91r9Nuow" key="uuid" value="_iTIdMGmBEeepGY91r9Nuow"/>
+  </eAnnotations>
+  <elements xsi:type="org.opengroup.archimate:ApplicationComponent" xmi:id="_Jh6II2qmEeepGY91r9Nuow" incomingRelationships="_Jh6IZWqmEeepGY91r9Nuow _Jh6IX2qmEeepGY91r9Nuow _Jh6Id2qmEeepGY91r9Nuow _Jh6IcWqmEeepGY91r9Nuow _Jh6IiWqmEeepGY91r9Nuow _Jh6Ia2qmEeepGY91r9Nuow">
+    <eAnnotations xmi:id="_Jh6IJGqmEeepGY91r9Nuow" source="genmymodel">
+      <details xmi:id="_Jh6IJWqmEeepGY91r9Nuow" key="uuid" value="_Ph5DEUuxEDW1XcsBTDCG8w"/>
+    </eAnnotations>
+    <name xmi:id="_Jh6IJmqmEeepGY91r9Nuow" value="UserTraining" lang="en">
+      <eAnnotations xmi:id="_Jh6IJ2qmEeepGY91r9Nuow" source="genmymodel">
+        <details xmi:id="_Jh6IKGqmEeepGY91r9Nuow" key="uuid" value="_Ph5DEkuxEDW1XcsBTDCG8w"/>
+      </eAnnotations>
+    </name>
+  </elements>
+  <elements xsi:type="org.opengroup.archimate:ApplicationComponent" xmi:id="_Jh6IKWqmEeepGY91r9Nuow" outcomingRelationships="_Jh6IR2qmEeepGY91r9Nuow _Jh6IfWqmEeepGY91r9Nuow _Jh6IX2qmEeepGY91r9Nuow _Jh6ITWqmEeepGY91r9Nuow">
+    <eAnnotations xmi:id="_Jh6IKmqmEeepGY91r9Nuow" source="genmymodel">
+      <details xmi:id="_Jh6IK2qmEeepGY91r9Nuow" key="uuid" value="_vI3Q0UuxEDW1XcsBTDCG8w"/>
+    </eAnnotations>
+    <name xmi:id="_Jh6ILGqmEeepGY91r9Nuow" value="TrainingController" lang="en">
+      <eAnnotations xmi:id="_Jh6ILWqmEeepGY91r9Nuow" source="genmymodel">
+        <details xmi:id="_Jh6ILmqmEeepGY91r9Nuow" key="uuid" value="_vI3Q0kuxEDW1XcsBTDCG8w"/>
+      </eAnnotations>
+    </name>
+  </elements>
+  <elements xsi:type="org.opengroup.archimate:ApplicationComponent" xmi:id="_Jh6IL2qmEeepGY91r9Nuow" incomingRelationships="_Jh6IR2qmEeepGY91r9Nuow" outcomingRelationships="_Jh6IU2qmEeepGY91r9Nuow _Jh6Ig2qmEeepGY91r9Nuow _Jh6ISmqmEeepGY91r9Nuow _Jh6IiWqmEeepGY91r9Nuow _Jh6IZWqmEeepGY91r9Nuow">
+    <eAnnotations xmi:id="_Jh6IMGqmEeepGY91r9Nuow" source="genmymodel">
+      <details xmi:id="_Jh6IMWqmEeepGY91r9Nuow" key="uuid" value="_26faEUuxEDW1XcsBTDCG8w"/>
+    </eAnnotations>
+    <name xmi:id="_Jh6IMmqmEeepGY91r9Nuow" value="TrainingService" lang="en">
+      <eAnnotations xmi:id="_Jh6IM2qmEeepGY91r9Nuow" source="genmymodel">
+        <details xmi:id="_Jh6INGqmEeepGY91r9Nuow" key="uuid" value="_26faEkuxEDW1XcsBTDCG8w"/>
+      </eAnnotations>
+    </name>
+  </elements>
+  <elements xsi:type="org.opengroup.archimate:ApplicationComponent" xmi:id="_Jh6INWqmEeepGY91r9Nuow" incomingRelationships="_Jh6IU2qmEeepGY91r9Nuow _Jh6ITWqmEeepGY91r9Nuow _Jh6IWWqmEeepGY91r9Nuow" outcomingRelationships="_Jh6IcWqmEeepGY91r9Nuow">
+    <eAnnotations xmi:id="_Jh6INmqmEeepGY91r9Nuow" source="genmymodel">
+      <details xmi:id="_Jh6IN2qmEeepGY91r9Nuow" key="uuid" value="_5W4kAUuxEDW1XcsBTDCG8w"/>
+    </eAnnotations>
+    <name xmi:id="_Jh6IOGqmEeepGY91r9Nuow" value="Training" lang="en">
+      <eAnnotations xmi:id="_Jh6IOWqmEeepGY91r9Nuow" source="genmymodel">
+        <details xmi:id="_Jh6IOmqmEeepGY91r9Nuow" key="uuid" value="_5W4kAkuxEDW1XcsBTDCG8w"/>
+      </eAnnotations>
+    </name>
+  </elements>
+  <elements xsi:type="org.opengroup.archimate:ApplicationComponent" xmi:id="_Jh6IO2qmEeepGY91r9Nuow" incomingRelationships="_Jh6ISmqmEeepGY91r9Nuow" outcomingRelationships="_Jh6Ia2qmEeepGY91r9Nuow _Jh6IWWqmEeepGY91r9Nuow">
+    <eAnnotations xmi:id="_Jh6IPGqmEeepGY91r9Nuow" source="genmymodel">
+      <details xmi:id="_Jh6IPWqmEeepGY91r9Nuow" key="uuid" value="__VVfcUuxEDW1XcsBTDCG8w"/>
+    </eAnnotations>
+    <name xmi:id="_Jh6IPmqmEeepGY91r9Nuow" value="TrainingRepository" lang="en">
+      <eAnnotations xmi:id="_Jh6IP2qmEeepGY91r9Nuow" source="genmymodel">
+        <details xmi:id="_Jh6IQGqmEeepGY91r9Nuow" key="uuid" value="__VVfckuxEDW1XcsBTDCG8w"/>
+      </eAnnotations>
+    </name>
+  </elements>
+  <elements xsi:type="org.opengroup.archimate:ApplicationComponent" xmi:id="_Jh6IQWqmEeepGY91r9Nuow" incomingRelationships="_Jh6IfWqmEeepGY91r9Nuow _Jh6Ig2qmEeepGY91r9Nuow" outcomingRelationships="_Jh6Id2qmEeepGY91r9Nuow">
+    <eAnnotations xmi:id="_Jh6IQmqmEeepGY91r9Nuow" source="genmymodel">
+      <details xmi:id="_Jh6IQ2qmEeepGY91r9Nuow" key="uuid" value="_UiP5sEzREDW1XcsBTDCG8w"/>
+    </eAnnotations>
+    <name xmi:id="_Jh6IRGqmEeepGY91r9Nuow" value="User" lang="en">
+      <eAnnotations xmi:id="_Jh6IRWqmEeepGY91r9Nuow" source="genmymodel">
+        <details xmi:id="_Jh6IRmqmEeepGY91r9Nuow" key="uuid" value="_UiP5sUzREDW1XcsBTDCG8w"/>
+      </eAnnotations>
+    </name>
+  </elements>
+  <relationships xsi:type="org.opengroup.archimate:Aggregation" xmi:id="_Jh6IR2qmEeepGY91r9Nuow" source="_Jh6IKWqmEeepGY91r9Nuow" target="_Jh6IL2qmEeepGY91r9Nuow">
+    <eAnnotations xmi:id="_Jh6ISGqmEeepGY91r9Nuow" source="genmymodel">
+      <details xmi:id="_Jh6ISWqmEeepGY91r9Nuow" key="uuid" value="_qXuVsUu0EDW1XcsBTDCG8w"/>
+    </eAnnotations>
+  </relationships>
+  <relationships xsi:type="org.opengroup.archimate:Aggregation" xmi:id="_Jh6ISmqmEeepGY91r9Nuow" source="_Jh6IL2qmEeepGY91r9Nuow" target="_Jh6IO2qmEeepGY91r9Nuow">
+    <eAnnotations xmi:id="_Jh6IS2qmEeepGY91r9Nuow" source="genmymodel">
+      <details xmi:id="_Jh6ITGqmEeepGY91r9Nuow" key="uuid" value="_rqWbMUu0EDW1XcsBTDCG8w"/>
+    </eAnnotations>
+  </relationships>
+  <relationships xsi:type="org.opengroup.archimate:Association" xmi:id="_Jh6ITWqmEeepGY91r9Nuow" source="_Jh6IKWqmEeepGY91r9Nuow" target="_Jh6INWqmEeepGY91r9Nuow">
+    <eAnnotations xmi:id="_Jh6ITmqmEeepGY91r9Nuow" source="genmymodel">
+      <details xmi:id="_Jh6IT2qmEeepGY91r9Nuow" key="uuid" value="_ARoBMUu1EDW1XcsBTDCG8w"/>
+    </eAnnotations>
+    <name xmi:id="_Jh6IUGqmEeepGY91r9Nuow" value="uses" lang="en">
+      <eAnnotations xmi:id="_Jh6IUWqmEeepGY91r9Nuow" source="genmymodel">
+        <details xmi:id="_Jh6IUmqmEeepGY91r9Nuow" key="uuid" value="_ARoBNEu1EDW1XcsBTDCG8w"/>
+      </eAnnotations>
+    </name>
+  </relationships>
+  <relationships xsi:type="org.opengroup.archimate:Association" xmi:id="_Jh6IU2qmEeepGY91r9Nuow" source="_Jh6IL2qmEeepGY91r9Nuow" target="_Jh6INWqmEeepGY91r9Nuow">
+    <eAnnotations xmi:id="_Jh6IVGqmEeepGY91r9Nuow" source="genmymodel">
+      <details xmi:id="_Jh6IVWqmEeepGY91r9Nuow" key="uuid" value="_BG9GsUu1EDW1XcsBTDCG8w"/>
+    </eAnnotations>
+    <name xmi:id="_Jh6IVmqmEeepGY91r9Nuow" value="uses" lang="en">
+      <eAnnotations xmi:id="_Jh6IV2qmEeepGY91r9Nuow" source="genmymodel">
+        <details xmi:id="_Jh6IWGqmEeepGY91r9Nuow" key="uuid" value="_BG-U0Eu1EDW1XcsBTDCG8w"/>
+      </eAnnotations>
+    </name>
+  </relationships>
+  <relationships xsi:type="org.opengroup.archimate:Association" xmi:id="_Jh6IWWqmEeepGY91r9Nuow" source="_Jh6IO2qmEeepGY91r9Nuow" target="_Jh6INWqmEeepGY91r9Nuow">
+    <eAnnotations xmi:id="_Jh6IWmqmEeepGY91r9Nuow" source="genmymodel">
+      <details xmi:id="_Jh6IW2qmEeepGY91r9Nuow" key="uuid" value="_CBPksUu1EDW1XcsBTDCG8w"/>
+    </eAnnotations>
+    <name xmi:id="_Jh6IXGqmEeepGY91r9Nuow" value="uses" lang="en">
+      <eAnnotations xmi:id="_Jh6IXWqmEeepGY91r9Nuow" source="genmymodel">
+        <details xmi:id="_Jh6IXmqmEeepGY91r9Nuow" key="uuid" value="_CBPktEu1EDW1XcsBTDCG8w"/>
+      </eAnnotations>
+    </name>
+  </relationships>
+  <relationships xsi:type="org.opengroup.archimate:Association" xmi:id="_Jh6IX2qmEeepGY91r9Nuow" source="_Jh6IKWqmEeepGY91r9Nuow" target="_Jh6II2qmEeepGY91r9Nuow">
+    <eAnnotations xmi:id="_Jh6IYGqmEeepGY91r9Nuow" source="genmymodel">
+      <details xmi:id="_Jh6IYWqmEeepGY91r9Nuow" key="uuid" value="_iASUMUu1EDW1XcsBTDCG8w"/>
+    </eAnnotations>
+    <name xmi:id="_Jh6IYmqmEeepGY91r9Nuow" value="uses" lang="en">
+      <eAnnotations xmi:id="_Jh6IY2qmEeepGY91r9Nuow" source="genmymodel">
+        <details xmi:id="_Jh6IZGqmEeepGY91r9Nuow" key="uuid" value="_iAS7QEu1EDW1XcsBTDCG8w"/>
+      </eAnnotations>
+    </name>
+  </relationships>
+  <relationships xsi:type="org.opengroup.archimate:Association" xmi:id="_Jh6IZWqmEeepGY91r9Nuow" source="_Jh6IL2qmEeepGY91r9Nuow" target="_Jh6II2qmEeepGY91r9Nuow">
+    <eAnnotations xmi:id="_Jh6IZmqmEeepGY91r9Nuow" source="genmymodel">
+      <details xmi:id="_Jh6IZ2qmEeepGY91r9Nuow" key="uuid" value="_jkJToUu1EDW1XcsBTDCG8w"/>
+    </eAnnotations>
+    <name xmi:id="_Jh6IaGqmEeepGY91r9Nuow" value="uses" lang="en">
+      <eAnnotations xmi:id="_Jh6IaWqmEeepGY91r9Nuow" source="genmymodel">
+        <details xmi:id="_Jh6IamqmEeepGY91r9Nuow" key="uuid" value="_jkJ6sUu1EDW1XcsBTDCG8w"/>
+      </eAnnotations>
+    </name>
+  </relationships>
+  <relationships xsi:type="org.opengroup.archimate:Association" xmi:id="_Jh6Ia2qmEeepGY91r9Nuow" source="_Jh6IO2qmEeepGY91r9Nuow" target="_Jh6II2qmEeepGY91r9Nuow">
+    <eAnnotations xmi:id="_Jh6IbGqmEeepGY91r9Nuow" source="genmymodel">
+      <details xmi:id="_Jh6IbWqmEeepGY91r9Nuow" key="uuid" value="_kOG2oUu1EDW1XcsBTDCG8w"/>
+    </eAnnotations>
+    <name xmi:id="_Jh6IbmqmEeepGY91r9Nuow" value="uses" lang="en">
+      <eAnnotations xmi:id="_Jh6Ib2qmEeepGY91r9Nuow" source="genmymodel">
+        <details xmi:id="_Jh6IcGqmEeepGY91r9Nuow" key="uuid" value="_kOG2pEu1EDW1XcsBTDCG8w"/>
+      </eAnnotations>
+    </name>
+  </relationships>
+  <relationships xsi:type="org.opengroup.archimate:Association" xmi:id="_Jh6IcWqmEeepGY91r9Nuow" source="_Jh6INWqmEeepGY91r9Nuow" target="_Jh6II2qmEeepGY91r9Nuow">
+    <eAnnotations xmi:id="_Jh6IcmqmEeepGY91r9Nuow" source="genmymodel">
+      <details xmi:id="_Jh6Ic2qmEeepGY91r9Nuow" key="uuid" value="_Y4HGsUzREDW1XcsBTDCG8w"/>
+    </eAnnotations>
+    <name xmi:id="_Jh6IdGqmEeepGY91r9Nuow" value="0...n" lang="en">
+      <eAnnotations xmi:id="_Jh6IdWqmEeepGY91r9Nuow" source="genmymodel">
+        <details xmi:id="_Jh6IdmqmEeepGY91r9Nuow" key="uuid" value="_Y4HGtEzREDW1XcsBTDCG8w"/>
+      </eAnnotations>
+    </name>
+  </relationships>
+  <relationships xsi:type="org.opengroup.archimate:Association" xmi:id="_Jh6Id2qmEeepGY91r9Nuow" source="_Jh6IQWqmEeepGY91r9Nuow" target="_Jh6II2qmEeepGY91r9Nuow">
+    <eAnnotations xmi:id="_Jh6IeGqmEeepGY91r9Nuow" source="genmymodel">
+      <details xmi:id="_Jh6IeWqmEeepGY91r9Nuow" key="uuid" value="_gkzsoUzREDW1XcsBTDCG8w"/>
+    </eAnnotations>
+    <name xmi:id="_Jh6IemqmEeepGY91r9Nuow" value="0...n" lang="en">
+      <eAnnotations xmi:id="_Jh6Ie2qmEeepGY91r9Nuow" source="genmymodel">
+        <details xmi:id="_Jh6IfGqmEeepGY91r9Nuow" key="uuid" value="_gkzspEzREDW1XcsBTDCG8w"/>
+      </eAnnotations>
+    </name>
+  </relationships>
+  <relationships xsi:type="org.opengroup.archimate:Association" xmi:id="_Jh6IfWqmEeepGY91r9Nuow" source="_Jh6IKWqmEeepGY91r9Nuow" target="_Jh6IQWqmEeepGY91r9Nuow">
+    <eAnnotations xmi:id="_Jh6IfmqmEeepGY91r9Nuow" source="genmymodel">
+      <details xmi:id="_Jh6If2qmEeepGY91r9Nuow" key="uuid" value="_wUkfMUzTEDW1XcsBTDCG8w"/>
+    </eAnnotations>
+    <name xmi:id="_Jh6IgGqmEeepGY91r9Nuow" lang="en">
+      <eAnnotations xmi:id="_Jh6IgWqmEeepGY91r9Nuow" source="genmymodel">
+        <details xmi:id="_Jh6IgmqmEeepGY91r9Nuow" key="uuid" value="_wUkfNEzTEDW1XcsBTDCG8w"/>
+      </eAnnotations>
+    </name>
+  </relationships>
+  <relationships xsi:type="org.opengroup.archimate:Association" xmi:id="_Jh6Ig2qmEeepGY91r9Nuow" source="_Jh6IL2qmEeepGY91r9Nuow" target="_Jh6IQWqmEeepGY91r9Nuow">
+    <eAnnotations xmi:id="_Jh6IhGqmEeepGY91r9Nuow" source="genmymodel">
+      <details xmi:id="_Jh6IhWqmEeepGY91r9Nuow" key="uuid" value="_xc0gsUzTEDW1XcsBTDCG8w"/>
+    </eAnnotations>
+    <name xmi:id="_Jh6IhmqmEeepGY91r9Nuow" lang="en">
+      <eAnnotations xmi:id="_Jh6Ih2qmEeepGY91r9Nuow" source="genmymodel">
+        <details xmi:id="_Jh6IiGqmEeepGY91r9Nuow" key="uuid" value="_xc1HwEzTEDW1XcsBTDCG8w"/>
+      </eAnnotations>
+    </name>
+  </relationships>
+  <relationships xsi:type="org.opengroup.archimate:Association" xmi:id="_Jh6IiWqmEeepGY91r9Nuow" source="_Jh6IL2qmEeepGY91r9Nuow" target="_Jh6II2qmEeepGY91r9Nuow">
+    <eAnnotations xmi:id="_Jh6IimqmEeepGY91r9Nuow" source="genmymodel">
+      <details xmi:id="_Jh6Ii2qmEeepGY91r9Nuow" key="uuid" value="_yLgysUzTEDW1XcsBTDCG8w"/>
+    </eAnnotations>
+    <name xmi:id="_Jh6IjGqmEeepGY91r9Nuow" lang="en">
+      <eAnnotations xmi:id="_Jh6IjWqmEeepGY91r9Nuow" source="genmymodel">
+        <details xmi:id="_Jh6IjmqmEeepGY91r9Nuow" key="uuid" value="_yLhZwEzTEDW1XcsBTDCG8w"/>
+      </eAnnotations>
+    </name>
+  </relationships>
+</org.opengroup.archimate:Model>
